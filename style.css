@@ -1,0 +1,61 @@
+.heading_rocking{
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+    background-color: royalblue;
+}
+.note{
+    font-size: 15px;
+    color: lightyellow;
+}
+body {
+background-size:cover;
+}
+.div_speed
+{
+    float:left;
+}
+.div_volume{
+    float:right;
+}
+
+.div_speed_img{
+    width: 200px;
+    border-radius:100px;
+}
+#speed
+{
+    font-size: 23px;
+    margin: 15px;
+    background-color: grey;
+    border-radius: 3;
+    color:black;
+}
+#volume
+{
+    font-size: 23px;
+    margin: 15px;
+    background-color: grey;
+    border-radius: 3;
+    color:black;
+}
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+    border:7px solid black;
+}
+.stop_button
+{
+    width: 130px;
+    font-size: 25px;
+    border:7px solid black;
+}
+canvas
+{
+    border:5px solid lightskyblue;
+    border-radius: 20px;
+}
+body{
+    background: url("GRANDPA'S BG.jpg");
+}
